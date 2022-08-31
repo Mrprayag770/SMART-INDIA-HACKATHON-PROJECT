@@ -13,6 +13,7 @@
 Clone the project
 
 ```bash
+https://github.com/Mrprayag770/SMART-INDIA-HACKATHON-PROJECT.git
   git clone https://github.com/upendraTRL/sihui.git
 ```
 

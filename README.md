@@ -1,4 +1,4 @@
-## Natrual Disaster Precautions and Visualisation
+## Natrual Disaster Visualisation && Precautions
   
   HAVE A LOOK:- https://mrprayag-sih-prog.herokuapp.com/  :)
   
